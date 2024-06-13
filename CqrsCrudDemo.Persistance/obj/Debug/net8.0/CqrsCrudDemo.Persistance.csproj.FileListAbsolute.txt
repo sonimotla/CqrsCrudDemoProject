@@ -1,0 +1,17 @@
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\bin\Debug\net8.0\CqrsCrudDemo.Persistance.deps.json
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\bin\Debug\net8.0\CqrsCrudDemo.Persistance.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\bin\Debug\net8.0\CqrsCrudDemo.Persistance.pdb
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\obj\Debug\net8.0\CqrsCrudDemo.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\obj\Debug\net8.0\CqrsCrudDemo.Persistance.AssemblyInfoInputs.cache
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\obj\Debug\net8.0\CqrsCrudDemo.Persistance.AssemblyInfo.cs
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\obj\Debug\net8.0\CqrsCrudDemo.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\obj\Debug\net8.0\CqrsCrudDemo.Persistance.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\obj\Debug\net8.0\refint\CqrsCrudDemo.Persistance.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\obj\Debug\net8.0\CqrsCrudDemo.Persistance.pdb
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\obj\Debug\net8.0\ref\CqrsCrudDemo.Persistance.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\obj\Debug\net8.0\CqrsCrudDemo.Persistance.csproj.AssemblyReference.cache
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\bin\Debug\net8.0\CqrsCrudDemo.Domain.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\bin\Debug\net8.0\CqrsCrudDemo.Domain.pdb
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\obj\Debug\net8.0\CqrsCrud.D9F88B39.Up2Date
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\bin\Debug\net8.0\CqrsCrudDemo.Application.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Persistance\bin\Debug\net8.0\CqrsCrudDemo.Application.pdb

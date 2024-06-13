@@ -1,0 +1,12 @@
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\bin\Debug\net8.0\CqrsCrudDemo.Domain.deps.json
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\bin\Debug\net8.0\CqrsCrudDemo.Domain.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\bin\Debug\net8.0\CqrsCrudDemo.Domain.pdb
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\obj\Debug\net8.0\CqrsCrudDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\obj\Debug\net8.0\CqrsCrudDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\obj\Debug\net8.0\CqrsCrudDemo.Domain.AssemblyInfo.cs
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\obj\Debug\net8.0\CqrsCrudDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\obj\Debug\net8.0\CqrsCrudDemo.Domain.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\obj\Debug\net8.0\refint\CqrsCrudDemo.Domain.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\obj\Debug\net8.0\CqrsCrudDemo.Domain.pdb
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\obj\Debug\net8.0\ref\CqrsCrudDemo.Domain.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Domain\obj\Debug\net8.0\CqrsCrudDemo.Domain.csproj.AssemblyReference.cache

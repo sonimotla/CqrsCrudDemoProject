@@ -1,0 +1,15 @@
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\bin\Debug\net8.0\CqrsCrudDemo.Application.deps.json
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\bin\Debug\net8.0\CqrsCrudDemo.Application.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\bin\Debug\net8.0\CqrsCrudDemo.Application.pdb
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\obj\Debug\net8.0\CqrsCrudDemo.Application.csproj.AssemblyReference.cache
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\obj\Debug\net8.0\CqrsCrudDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\obj\Debug\net8.0\CqrsCrudDemo.Application.AssemblyInfoInputs.cache
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\obj\Debug\net8.0\CqrsCrudDemo.Application.AssemblyInfo.cs
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\obj\Debug\net8.0\CqrsCrudDemo.Application.csproj.CoreCompileInputs.cache
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\obj\Debug\net8.0\CqrsCrudDemo.Application.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\obj\Debug\net8.0\refint\CqrsCrudDemo.Application.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\obj\Debug\net8.0\CqrsCrudDemo.Application.pdb
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\obj\Debug\net8.0\ref\CqrsCrudDemo.Application.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\bin\Debug\net8.0\CqrsCrudDemo.Domain.dll
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\bin\Debug\net8.0\CqrsCrudDemo.Domain.pdb
+C:\Users\sonim\source\repos\CqrsCrudDemo\CqrsCrudDemo.Application\obj\Debug\net8.0\CqrsCrud.C74658FE.Up2Date

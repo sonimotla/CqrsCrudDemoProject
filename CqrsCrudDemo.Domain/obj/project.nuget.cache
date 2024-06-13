@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jV39BhKnOZo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonim\\source\\repos\\CqrsCrudDemo\\CqrsCrudDemo.Domain\\CqrsCrudDemo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonim\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\sonim\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\sonim\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\sonim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
